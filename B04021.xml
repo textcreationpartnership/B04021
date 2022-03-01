@@ -1,0 +1,2967 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The traveller's song; or, Pleasant meditations on the way. By George Liddell, in Edinburgh.</title>
+            <author>Liddell, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04021</idno>
+            <idno type="STC">Wing L1975A</idno>
+            <idno type="STC">ESTC R179702</idno>
+            <idno type="EEBO-CITATION">51617599</idno>
+            <idno type="OCLC">ocm 51617599</idno>
+            <idno type="VID">175280</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175280)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The traveller's song; or, Pleasant meditations on the way. By George Liddell, in Edinburgh.</title>
+                  <author>Liddell, George.</author>
+               </titleStmt>
+               <extent>48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and sold by Thomas Parkhurst at the Bible and Three Crowns in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>With citations of relevant Bible verses in margins.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  History of Biblical events --  Poetry.</term>
+               <term>Religious poetry, English --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175280:1" rendition="simple:additions"/>
+            <pb facs="tcp:175280:1"/>
+            <pb facs="tcp:175280:2"/>
+            <pb facs="tcp:175280:2"/>
+            <pb facs="tcp:175280:3"/>
+            <pb facs="tcp:175280:3" rendition="simple:additions"/>
+            <p>THE Traveller's Song; Or, Pleaſant MEDITATIONS On the WAY.</p>
+            <p>BY GEORGE LIDDELL, In <hi>Edinburgh.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 104.</hi>
+               </bibl>
+               <p>I will Sing unto the Lord as long as I Live, and my Meditations of him ſhall be Sweet.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 143.</hi>
+               </bibl>
+               <p>I will Muſe of the Works of thy Hands.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and Sold by <hi>Thomas Parkhurſt</hi> at the <hi>Bible and Three Crowns</hi> in <hi>Cheapſide.</hi> 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:175280:4"/>
+            <pb facs="tcp:175280:4"/>
+            <head>To His Moſt Excellent Ma<g ref="char:EOLhyphen"/>jeſty, <hi>WILLIAM</hi> III. King of <hi>Great BRITAIN, France</hi> and <hi>Ireland,</hi> Defen<g ref="char:EOLhyphen"/>der of the Faith, <hi>&amp;c.</hi> This <hi>Small Treatiſe</hi> is moſt hum<g ref="char:EOLhyphen"/>bly Dedicated by,</head>
+            <opener>
+               <signed>
+                  <hi>Your Majeſties meaneſt Subject and Servant,</hi> George Liddell.</signed>
+            </opener>
+            <lg>
+               <l>WHEN I the Coronation ſee,</l>
+               <l>Of all the Flowers the Queen,</l>
+               <l>Makes me to praiſe that Noble Day,</l>
+               <l>That Crown our Illuſtrious KING.</l>
+            </lg>
+            <lg>
+               <l>When I the ORANGE Lilly ſee,</l>
+               <l>That pretty Flower ſo clear,</l>
+               <l>Makes me to mind the ORANGE fine,</l>
+               <l>Our <hi>Britiſh</hi> Crown do wear.</l>
+            </lg>
+            <lg>
+               <l>When I do the <hi>Sweet-William</hi> ſee,</l>
+               <l>That pretty Flower ſo fine,</l>
+               <l>Makes me to love our <hi>William</hi> Dear,</l>
+               <l>That is <hi>Great Britain</hi>'s KING.</l>
+            </lg>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175280:5"/>
+            <head>TO THE READER.</head>
+            <lg>
+               <l>REader theſe Lines to bring to Light,</l>
+               <l>Did put me in a Terrer;</l>
+               <l>Yet hoping you'll be ſo kind to me,</l>
+               <l>As tell me of an Error;</l>
+               <l>When Time and Leiſure does permit,</l>
+               <l>I ſhall Correct them farther.</l>
+            </lg>
+            <lg>
+               <l>Indeed to bring them into Verſe,</l>
+               <l>I did as I am able;</l>
+               <l>But my deſign into the thing,</l>
+               <l>Is to make you look the Bible.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>When I do ſee</hi> in moſt theſe Verſe,</l>
+               <l>I do begin the Line;</l>
+               <l>Yet turn the <hi>I</hi> unto thy ſelf,</l>
+               <l>And then thou mak'ſt it thine.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="5" facs="tcp:175280:5" rendition="simple:additions"/>
+            <head>
+               <hi>THE</hi> Travellers Song.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>O Why are we afraid of Man,</l>
+               <l>That's made of brittle Clay;</l>
+               <l>And does forget our Maker great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 51.</note>Did Heaven and Earth Diſplay.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>O let us learn a publick ſpirit,</l>
+               <l>For good to <hi>Iſrael;</hi>
+               </l>
+               <l>And when our Bodies laid in duſt,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 112.</note>Our Memory ſhall not fall.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>O let us live a Holy Life,</l>
+               <l>And ſtill therein proceed;</l>
+               <l>Tho' our beginning be but ſmall,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Heb.</hi> 12.</note>As Grain of Muſtard Seed.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>O flee from ſin that is ſo evil,</l>
+               <l>And cauſeth Judgments fa;</l>
+               <l>Us to Redeem, the Lord of Life,</l>
+               <l>
+                  <note place="margin">
+                     <hi>John</hi> 19.</note>Did ſuffer at <hi>Golgotha.</hi>
+               </l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>O let your Light before the World,</l>
+               <l>In ſhining ſo excell,</l>
+               <l>That others ſeeing your Holy Life,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Phil.</hi> 2.</note>May glorifie God themſel.</l>
+            </lg>
+            <pb n="6" facs="tcp:175280:6"/>
+            <lg n="6">
+               <head>VI.</head>
+               <l>When I have been in ſtraits ſo great,</l>
+               <l>My ſpirits almoſt ſink't,</l>
+               <l>Yet God moſt high hath given to me,</l>
+               <l>A faithful loving blink.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>When I do Travel far and near,</l>
+               <l>For this my daily Bread;</l>
+               <l>Makes me to mind the Travels ſore,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 53.</note>That Chriſt had for his Seed.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>When I do ſee the Sower Sow,</l>
+               <l>And makes his Caſts ſo meet,</l>
+               <l>Makes me to mind our Sower high,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Acts</hi> 10.</note>Reveal'd by <hi>Peter</hi>'s Sheet.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>When I do hear the Thunder loud,</l>
+               <l>Sees Fire tear the Sky,</l>
+               <l>Makes me to mind <hi>Jehovah</hi>'s Voice,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 29.</note>So loud to Men doth cry.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>When I the Glorious Sun do ſee,</l>
+               <l>Each Day his Race fulfil,</l>
+               <l>Makes me to mind great <hi>Joſhua</hi>'s Day,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Joſh.</hi> 10.</note>When it ſo long ſtood ſtill.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>When I do ſee the godly kind,</l>
+               <l>I love them with my heart.</l>
+               <l>Makes me to long to meet in Heaven,</l>
+               <l>Where we ſhall never part.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>When we do fall in troubles great,</l>
+               <l>Sees ſtraits before our Een,</l>
+               <l>Let us then mind that Providence,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 22.</note>On Mount it ſhall be ſeen.</l>
+            </lg>
+            <pb n="7" facs="tcp:175280:6"/>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>When I do ſee the Bull-ruſh ſtrong,</l>
+               <l>Grows by the River's ſide,</l>
+               <l>Makes me to mind that Ark of them</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 2.</note>Did <hi>Moſes</hi> in <hi>Nilus</hi> hide.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>When I do ſee the Vine ſo Red,</l>
+               <l>And Grapes that's in my Hand,</l>
+               <l>Makes me to mind that Cluſter fine,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Num.</hi> 13.</note>They brought from <hi>Canaan</hi>'s Land.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>When I behold the Rainbow Red,</l>
+               <l>With Colours Blue and Green,</l>
+               <l>Makes me to mind that Covenant,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 9.</note>That God has made with Men.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>When I am daub'd in Clay ſo deep,</l>
+               <l>And all my Joints ſo ſore,</l>
+               <l>Makes me to love that Eternal Day,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Heb.</hi> 4.</note>I'll reſt for ever more.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>When I behold the Lamb ſo young,</l>
+               <l>And Pleaſantly to play,</l>
+               <l>Makes me to mind that Immaculate Lamb,</l>
+               <l>
+                  <note place="margin">
+                     <hi>John</hi> 1.</note>That takes my Sins away.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>O let us thankful be to God,</l>
+               <l>And walk into his way,</l>
+               <l>Who from the womb has fed and cled</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 22.</note>Us to this very day.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>When I do mind that <hi>Joſeph</hi> young,</l>
+               <l>They laid for him ſuch Plots;</l>
+               <l>How he did ſuffer Innocently,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 39.</note>At loſs of both his Coats.</l>
+            </lg>
+            <pb n="8" facs="tcp:175280:7"/>
+            <lg n="20">
+               <head>XX.</head>
+               <l>When I that fervent <hi>Jacob</hi> mind,</l>
+               <l>Wreſtling in the Night,</l>
+               <l>Before the Day appeared clear,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 32.</note>He got a Glorious ſight.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>When I do fall in Ditches deep,</l>
+               <l>As I do walk the Moors,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Prov.</hi> 23.27.</note>Makes me to mind our Gallantries,</l>
+               <l>When they fall in with Whores.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>When I do ſee the Light at Morn,</l>
+               <l>Begin for to diſplay,</l>
+               <l>Makes me to mind the Upright's Light,</l>
+               <l>Like Noon-tide of the Day.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>When I do mind that <hi>Sodom</hi> great,</l>
+               <l>Where was ſo many Men,</l>
+               <l>Makes me to admire my God ſo kind,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 18.</note>Would ſav't if Righteous Ten.</l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>When I hear the Trumper ſound,</l>
+               <l>Sees People in a Crowd,</l>
+               <l>Makes me mind Mount <hi>Sina</hi> right,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 19.</note>When it did ſound ſo loud.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>When I do ſee the Thorns ſo thick,</l>
+               <l>As I do walk the way,</l>
+               <l>Makes me to mind how they ſpring up,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Matth.</hi> 13.</note>And choaks the Seed away.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>To know how Moon doth wax and wein,</l>
+               <l>It is above our Reaſons,</l>
+               <l>But let us glorifie our God,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 104.</note>Appointed her for Seaſons.</l>
+            </lg>
+            <pb n="9" facs="tcp:175280:7"/>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>When I do ſee the Froſt and Snow,</l>
+               <l>So thick on Earth ro lye,</l>
+               <l>Makes me to mind thoſe Treaſures great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Job</hi> 37.</note>That's in the Heavens high.</l>
+            </lg>
+            <lg n="28">
+               <head>XXVIII</head>
+               <l>When I do walk ſo dark at Night,</l>
+               <l>And cannot ſee my way,</l>
+               <l>Makes me to mind that darkneſs great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 10.</note>That was in <hi>Pharaoh</hi>'s Day.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>When I the pleaſant Larks hear Sing,</l>
+               <l>By Dawning of the Days,</l>
+               <l>Makes me to mind thoſe Glorious Heavens,</l>
+               <l>Where Saints do Sing always.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>When I do ſee the Corn ſo ripe,</l>
+               <l>And Shearers that's ſo keen,</l>
+               <l>Makes me to mind that truth ſo right,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Ruth</hi> 2.</note>When <hi>Ruth</hi> with <hi>Boaz</hi> did glean.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>When I do meet with kindneſs ſweet,</l>
+               <l>That's Shown to me from Man,</l>
+               <l>Makes me to mind that Love ſo great,</l>
+               <l>
+                  <note place="margin">2 <hi>Sam.</hi> 1.</note>Of <hi>David</hi> and <hi>Jonathan.</hi>
+               </l>
+            </lg>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>When I the Glave ſtones do ſee,</l>
+               <l>Above the Saints that lye.</l>
+               <l>Makes me to mind the Souls above,</l>
+               <l>That's in Eternity.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>When I do ſee the Carpenters,</l>
+               <l>To work in Oak ſo ſtark,</l>
+               <l>Makes me to mind our <hi>Noah</hi> old,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 6.</note>How he did build the Ark.</l>
+            </lg>
+            <pb n="10" facs="tcp:175280:8"/>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>When I do ſee a Furnace hot,</l>
+               <l>Would burn both Bone and Lyre,</l>
+               <l>Makes me to mind thoſe Children Three</l>
+               <l>
+                  <note place="margin">
+                     <hi>Dan.</hi> 3.</note>That were not hurt by Fire.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>When I do ſee the Worms ſo thick,</l>
+               <l>That's in the Earth all over,</l>
+               <l>Makes me to mind my Bed of Duſt,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Job</hi> 19.</note>When they me all ſhall cover.</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>When I do ſee the Stones in Slings,</l>
+               <l>That throweth them ſo far,</l>
+               <l>Makes me to mind 700 Men,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 20.</note>That threw them to a Hair.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>When I do hear the Sectaries,</l>
+               <l>With their Opinions faſs,</l>
+               <l>Makes me to think thoſe words mon wiſe</l>
+               <l>
+                  <note place="margin">
+                     <hi>Num.</hi> 22.</note>That ſpoke by <hi>Balaam</hi>'s Aſs.</l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>When I do ſee our Dyars fine,</l>
+               <l>So caſt their Colours af,</l>
+               <l>Makes me to mind his Garments Red,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 63.</note>That came from <hi>Bozarach.</hi>
+               </l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>When we do ſee the godly Rare,</l>
+               <l>With Sin and Trouble meet,</l>
+               <l>Yet let us mind the Day to come,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 33.</note>They ſhall not ſay I'm Sick.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>When I the Mure-burn ſee ſo large,</l>
+               <l>And Fire to ſpread it ſell,</l>
+               <l>Makes me to mind that Flame ſo great</l>
+               <l>The Damned's in in Hell.</l>
+            </lg>
+            <pb n="11" facs="tcp:175280:8"/>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>When I behold the Willow Trees,</l>
+               <l>And Palms that grow thereon,</l>
+               <l>Makes me to mind thoſe Children dear,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 137.</note>That hang their Harps upon.</l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>When we do mind poor <hi>Ephraim,</hi>
+               </l>
+               <l>And his unturned Cake,</l>
+               <l>Yet let us love thoſe mercies Bowels,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 11.</note>Did freely for him ake.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>When I do ſee the Gade ſo long,</l>
+               <l>That does our Ploughs ſo call,</l>
+               <l>Makes me to mind that Hand ſo ſtrong,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 3.</note>By it made <hi>Philiſtines</hi> fall.</l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>When I do ſee the Guils ſo thick,</l>
+               <l>Our Corn ſo overthrow,</l>
+               <l>Makes me to mind thoſe Firebrands,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 15.</note>Set <hi>Philiſtines</hi> Fields a low.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>When I do mind the Heart's Zeal,</l>
+               <l>When <hi>Moſes</hi> brake the Tables,</l>
+               <l>Makes me to thank my God ſo kind,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 32.</note>Renew'd them unto Rebels.</l>
+            </lg>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>When I do ſee the Morning's Dew,</l>
+               <l>And all his Drops like Pearl,</l>
+               <l>Makes me to mind that <hi>Hermon</hi>'s Dew,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſul.</hi> 133.</note>Or on <hi>Sion</hi> Hill that fell.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>When I do mind that Plot ſo great,</l>
+               <l>In <hi>Aſuerus</hi> Days,</l>
+               <l>When <hi>Haman</hi>'s mind was fully bent,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Eſter</hi> 3.</note>All the poor <hi>Jews</hi> to ſlay.</l>
+            </lg>
+            <pb n="12" facs="tcp:175280:9"/>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>When I do hear the Lion Roar,</l>
+               <l>And ſees his Paws ſo tear,</l>
+               <l>Makes me to mind that Lion ſtrong,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Rev.</hi> 5.</note>That guarded me from fear.</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>When I do hear the <hi>Maevies</hi> ſing,</l>
+               <l>And warble forth her Notes</l>
+               <l>Makes me to praiſe <hi>Emanuel</hi> King,</l>
+               <l>Without my Book or Notes.</l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>When I ſee neither Sun nor Moon,</l>
+               <l>Nor Stars gliſtering high,</l>
+               <l>Yet I'll believe to ſee my King</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 45.</note>Of Glory Eternally.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>When I do ſee the Rivers ſwell,</l>
+               <l>Into ſo great a flood,</l>
+               <l>Makes me to h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d thoſe waters all</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 7.</note>Of <hi>Egypt</hi>'s turn'd to blood.</l>
+            </lg>
+            <lg n="52">
+               <head>LII.</head>
+               <l>When I have ſeen the godly Rare.</l>
+               <l>In Dark and Gloomy Days,</l>
+               <l>Yet I will mind the Hand ſo ſtrong,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Dan.</hi> 5.</note>Thir lives in all their ways.</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>O who art thou <hi>Goliah</hi> great,</l>
+               <l>That does defie the Heaven,</l>
+               <l>The Staff that in thy Hand thou wears,</l>
+               <l>Is like a Weaver's Beam,</l>
+               <l>
+                  <note place="margin">1 <hi>Sam.</hi> 17.</note>Ere long my Foot thy Neck ſhall tread,</l>
+               <l>And pull out both thy Een.</l>
+            </lg>
+            <pb n="13" facs="tcp:175280:9"/>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>When I a pleaſant River ſee,</l>
+               <l>And all her Streams to gleid,</l>
+               <l>Makes me to long that River ſee,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 46.</note>Whoſe Streams makes Saints ſo glad.</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>When I the Milk-white Roſe do pluck,</l>
+               <l>How pleaſant does it ſmell,</l>
+               <l>Makes me to mind thoſe long White Robes,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Rev.</hi> 7.</note>Delivers Saints from Hell.</l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>When I do ſee the Hail ſo thick,</l>
+               <l>From Heaven to Earth fell,</l>
+               <l>Makes me to mind it Showers ſo great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Joſhua</hi> 10.</note>That did the <hi>Amorites</hi> quell.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>When I do ſee the <hi>Blaver</hi> Blue,</l>
+               <l>That grows amongſt the Corn,</l>
+               <l>Makes me to mind its Colour fine,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod</hi> 39.</note>About the Ephod worn.</l>
+            </lg>
+            <lg n="58">
+               <head>LVIII.</head>
+               <l>When I do drink the Populent Spring,</l>
+               <l>And Streams that are ſo fine,</l>
+               <l>Makes me to long to ſee that Day,</l>
+               <l>I's drink my Father's Wine.</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>When I behold the Peacock proud,</l>
+               <l>And his Oriental Train,</l>
+               <l>Makes me to mind thoſe glorious Robes</l>
+               <l>
+                  <note place="margin">
+                     <hi>Joh</hi> 39.</note>That Saints do wear in Heaven.</l>
+            </lg>
+            <lg n="60">
+               <head>LX.</head>
+               <l>When I do ſee the Sectaries,</l>
+               <l>That will not preſs the mark,</l>
+               <l>Yet I am ſure their Dagon ſtill,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Phil.</hi> 3.</note>Shall fall before the Ark.</l>
+            </lg>
+            <pb n="14" facs="tcp:175280:10"/>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>When I a Garden fair do ſee,</l>
+               <l>And all her Flowers ſo fine,</l>
+               <l>Makes me lament my Parents firſt,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 3.</note> Such Paradice did tyne.</l>
+            </lg>
+            <lg n="62">
+               <head>LXII.</head>
+               <l>When I the Roſe ſo Red do ſee,</l>
+               <l>And all her Leaves ſo fine,</l>
+               <l>Makes me to love that <hi>Sharon</hi>'s Roſe,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Cant.</hi> 2.</note>That takes away my Sin.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>When I behold the Woods ſo green,</l>
+               <l>And all her Birds hears Chants,</l>
+               <l>Makes me to long to ſee that Day,</l>
+               <l>
+                  <note place="margin">2 <hi>Theſſ.</hi> 1.</note>I Sing in Heaven with Saints,</l>
+            </lg>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>When I do ſee the Shaves ſo thick,</l>
+               <l>That ſtands on Ridges ſo even,</l>
+               <l>Makes me to mind that Emblem right,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 37.</note>Of <hi>Joſeph</hi> and his Dream.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>When I do ſee the Wine ſo Red,</l>
+               <l>That in the Cup they fill,</l>
+               <l>Makes me to mind my Savior kind,</l>
+               <l>For me his Blood did ſpill.</l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>When I our Sword ſo fine do ſee,</l>
+               <l>And Barrs with Yellow Gold,</l>
+               <l>Makes me to mind how Magiſtrates</l>
+               <l>
+                  <note place="margin">2 <hi>Sam.</hi> 23.</note>Should for the Truth be bold.</l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>When we behold the Gold <hi>Spinkgay,</hi>
+               </l>
+               <l>With Colours deck'd ſo fine,</l>
+               <l>Should we not ſpread our Maker's praiſe,</l>
+               <l>On things that are Divine.</l>
+            </lg>
+            <pb n="15" facs="tcp:175280:10"/>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>When I do ſee the Ravens ſo ſtout,</l>
+               <l>And nothing laid in ſtore,</l>
+               <l>Makes me to mind their proviſor,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Luke</hi> 12.</note>That Rings for evermore.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Though I be weary, and ſo vex't,</l>
+               <l>With this my daily Sin,</l>
+               <l>Yet I'll believe that glorious Day,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Rev.</hi> 21.</note>When none ſhall Enter in.</l>
+            </lg>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>When I do ſee the <hi>Fiſhers King,</hi>
+               </l>
+               <l>That pretty Bird ſo gay,</l>
+               <l>Makes me Rejoice in God my King,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Job</hi> 33.</note>Created me of Clay.</l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>When I do hear the Harp ſo clear,</l>
+               <l>And pleaſantly to play,</l>
+               <l>Makes me to mind that Player fine,</l>
+               <l>
+                  <note place="margin">1 <hi>Sam.</hi> 16.</note>
+                  <hi>David</hi> in <hi>Saul</hi>'s Day.</l>
+            </lg>
+            <lg n="72">
+               <head>LXXII.</head>
+               <l>When I do ſee the Wood ſo gay,</l>
+               <l>So Glorious and Green,</l>
+               <l>Makes me to long to ſee that Day,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Heb.</hi> 4.</note>I's reſt with Chriſt in Heaven.</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>When I do ſee the cruelty,</l>
+               <l>That Men to other ſhows,</l>
+               <l>Makes me to mind <hi>Adonibezek</hi> right,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 1.</note>With his Kings Thumbs and Toes.</l>
+            </lg>
+            <lg n="74">
+               <head>LXXIV.</head>
+               <l>When I do mind that <hi>Dalilah,</hi>
+               </l>
+               <l>Brought <hi>Sampſon</hi> mickle ſtrife,</l>
+               <l>Made him to loſe his precious Eyes,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 16.</note>And likewiſe his ſweet life.</l>
+            </lg>
+            <pb n="16" facs="tcp:175280:11"/>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>When I do ſee the Lamps at Night,</l>
+               <l>That lets me ſee to Gang,</l>
+               <l>Makes me to mind that Stratagem,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 7.</note>Of <hi>Gideen</hi> to <hi>Midian.</hi>
+               </l>
+            </lg>
+            <lg n="76">
+               <head>LXXVI.</head>
+               <l>When I do meet the Brambles thick,</l>
+               <l>That hath my Cloaths ſo riven,</l>
+               <l>Makes me to mind that Man ſo proud,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 9.</note>
+                  <hi>Abimelech</hi> the King.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>When I do ſee the Milſtone run,</l>
+               <l>Within its Circle full,</l>
+               <l>Makes me to mind how piece of one,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 9.</note>Did break <hi>Ablmelech</hi>'s Scull.</l>
+            </lg>
+            <lg n="78">
+               <head>LXXVIII.</head>
+               <l>When I do mind that <hi>Sampſon</hi> ſtrong,</l>
+               <l>Which brought ſuch things to paſs,</l>
+               <l>How he did kill a Thouſand Men,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 15.</note>With Jaw-bone of an Aſs.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>When I do ſee the Stars ſo bright,</l>
+               <l>And part of them down fa,</l>
+               <l>Makes me to mind how in their Courſe,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 5.</note>They fought 'gainſt <hi>Siſera.</hi>
+               </l>
+            </lg>
+            <lg n="80">
+               <head>LXXX.</head>
+               <l>When I do ſee thoſe Chariots,</l>
+               <l>So in their going fine,</l>
+               <l>Makes me to mind how <hi>Siſera,</hi>
+               </l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 4.</note>That had 900 Iron.</l>
+            </lg>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>When I do ſee the Dung ſo thick-</l>
+               <l>That lies upon the Land,</l>
+               <l>Makes me to mind the <hi>Jabin</hi> great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 83.</note>That fell at <hi>Kiſhan</hi> Strand.</l>
+            </lg>
+            <pb n="17" facs="tcp:175280:11" rendition="simple:additions"/>
+            <lg n="82">
+               <head>LXXXII.</head>
+               <l>When I do ſee the Rocks ſo high,</l>
+               <l>Upon the Earth that ſtands,</l>
+               <l>Makes me to mind thoſe Chriſlians wiſe,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Matth.</hi> 7.</note>That does not build on Sands.</l>
+            </lg>
+            <lg n="83">
+               <head>LXXXIII.</head>
+               <l>When I do mind that <hi>Eſther</hi> fine.</l>
+               <l>Came to the King in Silk,</l>
+               <l>Makes me admire the Woman wiſe,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 4.</note>Fed <hi>Siſera</hi> with Milk.</l>
+            </lg>
+            <lg n="84">
+               <head>LXXXIV.</head>
+               <l>When I the Fire large do ſee,</l>
+               <l>And all to Aſhes turn,</l>
+               <l>Makes me to mind the Fire great,</l>
+               <l>
+                  <note place="margin">2 <hi>Pet.</hi> 3.</note>When God the Earth ſhall burn.</l>
+            </lg>
+            <lg n="85">
+               <head>LXXXV.</head>
+               <l>When I do ſee the Coal-pits burn,</l>
+               <l>That does the Earth ſo Tear,</l>
+               <l>Makes me to mind the dreadful Day,</l>
+               <l>Of <hi>Cor, Dathan,</hi>
+                  <note place="margin">
+                     <hi>Numb.</hi> 16.</note> and <hi>Abier.</hi>
+               </l>
+            </lg>
+            <lg n="86">
+               <head>LXXXVI.</head>
+               <l>When I do hear how <hi>Zion</hi> dear,</l>
+               <l>with Moans Lament her ſel,</l>
+               <l>Yet I will mind her Palaces,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 48.</note>Where God delights to dwell.</l>
+            </lg>
+            <lg n="87">
+               <head>LXXXVII</head>
+               <l>When I do hear the Frogs ſo croak,</l>
+               <l>In Water in the Even,</l>
+               <l>Makes me to mind the Plague of them,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 8.</note>That fell on <hi>Egypt</hi>'s King.</l>
+            </lg>
+            <lg n="88">
+               <head>LXXXVIII.</head>
+               <l>When I conſider <hi>David</hi> young,</l>
+               <l>Whom <hi>Samuel</hi> a Shepherd fond,</l>
+               <l>And ſet a Crown upon his Head,</l>
+               <l>
+                  <note place="margin">1 <hi>Sam.</hi> 16.</note>For to Govern the Land.</l>
+            </lg>
+            <pb n="18" facs="tcp:175280:12"/>
+            <lg n="89">
+               <head>LXXXIX.</head>
+               <l>When I do mind the Whale ſo big.</l>
+               <l>That <hi>Jonah</hi> brought to Land,</l>
+               <l>Makes me admire that Providence,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Jonah</hi> 2.</note>Of my Redeemer's Hand.</l>
+            </lg>
+            <lg n="90">
+               <head>XC.</head>
+               <l>When I do hear the People Lye,</l>
+               <l>And Feed themſelves with Sin,</l>
+               <l>Makes me to mind poor <hi>Ephraim,</hi>
+               </l>
+               <l>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 12.</note>That Fed himſelf with Wind.</l>
+            </lg>
+            <lg n="91">
+               <head>XCI.</head>
+               <l>When I the Candle-light do ſee,</l>
+               <l>And Butter-flies burn themſel,</l>
+               <l>Makes me to mind the wicked right,</l>
+               <l>That Dance in Sin to Hell.</l>
+            </lg>
+            <lg n="92">
+               <head>XCII.</head>
+               <l>When I do ſee the Corn ſo thick,</l>
+               <l>That on the Earth do grow,</l>
+               <l>Makes me to mind that increaſe great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Gen.</hi> 26.</note>That did on <hi>Iſaac</hi> flow.</l>
+            </lg>
+            <lg n="93">
+               <head>XCIII.</head>
+               <l>When I do ſee the Barley thick,</l>
+               <l>And Hail fall on the Land,</l>
+               <l>Makes me to mind that Plague of it,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 9.</note>That fell on <hi>Egypt</hi>'s Land.</l>
+            </lg>
+            <lg n="94">
+               <head>XCIV.</head>
+               <l>When I do ſee the Morning Cloud,</l>
+               <l>And Dew ſo paſs away,</l>
+               <l>Makes me to mind that ſad Complaint,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 6.</note>Of <hi>Ephraim</hi> in <hi>Juda</hi>'s Day.</l>
+            </lg>
+            <lg n="95">
+               <head>XCV.</head>
+               <l>When I do ſee the Brick kilns burn,</l>
+               <l>As I do walk the way,</l>
+               <l>Makes me to mind that Bondage great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 5.</note>Of <hi>Iſrael</hi> in <hi>Pharaoh</hi>'s Day.</l>
+            </lg>
+            <pb n="19" facs="tcp:175280:12"/>
+            <lg n="96">
+               <head>XCVI.</head>
+               <l>When I do ſee the Mountains great,</l>
+               <l>That ſtands on <hi>Cheviot</hi> Fells,</l>
+               <l>Makes me to mind their Maker great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 4.</note>That weighed them in Scales.</l>
+            </lg>
+            <lg n="97">
+               <head>XCVII.</head>
+               <l>When I do ſee the Sea ſo rough,</l>
+               <l>And all her Waves like Fire,</l>
+               <l>Makes me to mind the Sea ſo Red,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Exod.</hi> 14.</note>Did <hi>Pharaoh</hi>'s Chariots tire.</l>
+            </lg>
+            <lg n="98">
+               <head>XCVIII.</head>
+               <l>When I do walk the way with Saints,</l>
+               <l>So pleaſantly all out,</l>
+               <l>Makes me to mind that <hi>Joſeph</hi> kind,</l>
+               <l>Who ſaid,<note place="margin">
+                     <hi>Gen.</hi> 45.</note> do not fall out.</l>
+            </lg>
+            <lg n="99">
+               <head>XCIX.</head>
+               <l>When I behold the pleaſant Earth,</l>
+               <l>So Beautiful and Green,</l>
+               <l>Makes me to mind that pleaſure great,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Rev.</hi> 21.</note>That Saints enjoy in Heaven.</l>
+            </lg>
+            <lg n="100">
+               <head>C.</head>
+               <l>When I the Play-Houſe ſee ſo fair,</l>
+               <l>With all her ſumptuous fillers,</l>
+               <l>Makes me to mind that Emblem right,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Judg.</hi> 16.</note>When <hi>Sampſon</hi> pulled the Pillars.</l>
+            </lg>
+            <div n="2" type="hundred">
+               <head>Cent. II.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>WHEN I the pleaſant Lilly ſee,</l>
+                  <l>And all their Stalks ſo tall,</l>
+                  <l>Makes me to mind that Promiſe great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Hoſ.</hi> 14.</note>Of God to <hi>Iſrael.</hi>
+                  </l>
+               </lg>
+               <pb n="20" facs="tcp:175280:13"/>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>When I do ſee the Scepter fine,</l>
+                  <l>That does our Law ſo ſway,</l>
+                  <l>Makes me to mind that Promiſe great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 49.</note>Of <hi>Shiloh</hi> in <hi>Juda</hi>'s Day.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>When I the Ram ſee Bitter ſight,</l>
+                  <l>And hears their Horns ſo ſnell,</l>
+                  <l>Makes me to mind that Blaſt of them,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Joſhua</hi> 6.</note>When <hi>Jericho</hi>'s Walls down fell.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>When I the flakes on Roofs do ſee,</l>
+                  <l>Our Countrey People dries,</l>
+                  <l>Makes me to mind that <hi>Rachab</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Joſhua</hi> 2.</note>Where ſhe did hide the Spies.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>When I the Covetous Worldling ſee,</l>
+                  <l>And no Truth in his way,</l>
+                  <l>Makes me to mind that <hi>Judas</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 18.</note>That did his Lord betray.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>When I do hear the Birds in Cage,</l>
+                  <l>So pleaſantly to Sing,</l>
+                  <l>Makes me to mind great <hi>Babylon,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 18.</note>That was a Cage of Sin.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>When I do hear the Arguments,</l>
+                  <l>That the blind World do ſhow,</l>
+                  <l>Yet I did know a Man in Chriſt,</l>
+                  <l>
+                     <note place="margin">2 <hi>Cor.</hi> 12.</note>Above Fourteenth ago.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.</head>
+                  <l>When I do mind that <hi>Moſes</hi> great,</l>
+                  <l>Did <hi>Egypt</hi>'s wealth deſpiſe,</l>
+                  <l>And to the Recompence of Reward,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Heb.</hi> 11.</note>Did wholly ſet his Eyes.</l>
+               </lg>
+               <pb n="21" facs="tcp:175280:13"/>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>
+                     <hi>Abel</hi> has been 5000 years in Heaven,</l>
+                  <l>And Glory yet to come,</l>
+                  <l>When he has been a Million of Millions more,</l>
+                  <l>It's but as new begun.</l>
+                  <l>I'll throw away my Quill,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 4.</note>Such Compting's paſs my skill.</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>When I do ſee the Shepherds thick,</l>
+                  <l>As I do walk the Land,</l>
+                  <l>Makes me to mind thoſe <hi>Patriarchs</hi> great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 46.</note>That dwelt in <hi>Goſhen</hi>'s Land.</l>
+               </lg>
+               <lg n="11">
+                  <head>XI.</head>
+                  <l>When I do drink the waters ſweet,</l>
+                  <l>It's to my Nature kind,</l>
+                  <l>Makes me to mind my Saviour dear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 2.</note>That turn'd it into Wine.</l>
+               </lg>
+               <lg n="12">
+                  <head>XII.</head>
+                  <l>When I do ſee the Corn ſo thin,</l>
+                  <l>And that it is ſo blawn,</l>
+                  <l>Makes me to mind that Famine great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 42.</note>That fell on <hi>Canaan</hi>'s Land.</l>
+               </lg>
+               <lg n="13">
+                  <head>XIII.</head>
+                  <l>When I do ſee the Hunter fierce,</l>
+                  <l>Purſue his Chaſe ſo bold,</l>
+                  <l>Makes me to mind that Hunter great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 10.</note>Which <hi>Nimrod</hi> was of old.</l>
+               </lg>
+               <lg n="14">
+                  <head>XIV.</head>
+                  <l>When I am hungry and hard ſted,</l>
+                  <l>I do forget to Sing,</l>
+                  <l>Yet I will mind <hi>Emanuel,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 1.</note>My Everlaſting King.</l>
+               </lg>
+               <lg n="15">
+                  <head>XV.</head>
+                  <l>When I do hear the Bells ſo loud,</l>
+                  <l>And pleaſantly to Ring,</l>
+                  <l>Makes me to mind the glorious Day,</l>
+                  <l>That Chriſt ſhall Reign as King.</l>
+               </lg>
+               <pb n="22" facs="tcp:175280:14"/>
+               <lg n="16">
+                  <head>XVI.</head>
+                  <l>Are not the Ravens fed, great God, by thee!</l>
+                  <l>And wilt thou cloath the Lilies, and n<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> me</l>
+                  <l>I'll ne'er miſtruſt my God for Cloath and Bread,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luke</hi> 12.</note>While Lilies flouriſh, and Ravens feed</l>
+               </lg>
+               <lg n="17">
+                  <head>XVII.</head>
+                  <l>When I thoſe pretty Birds do hear,</l>
+                  <l>So pleaſantly to Sing,</l>
+                  <l>Shall I not warble forth the Praiſe,</l>
+                  <l>of my Eternal King.</l>
+               </lg>
+               <lg n="18">
+                  <head>XVIII.</head>
+                  <l>When I hear the Kine ſo low,</l>
+                  <l>At Even when it is dark,</l>
+                  <l>Makes me to mind the <hi>Philiſtines</hi> Kine,</l>
+                  <l>
+                     <note place="margin">1 <hi>Sam.</hi> 6.</note>That did bring home the Ark.</l>
+               </lg>
+               <lg n="19">
+                  <head>XIX.</head>
+                  <l>When I conſider the Sparrows young,</l>
+                  <l>And Hairs that<g ref="char:punc">▪</g>s on my Head,</l>
+                  <l>Makes me believe on God my King,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 10.</note>When I am ſcarce of Bread.</l>
+               </lg>
+               <lg n="20">
+                  <head>XX.</head>
+                  <l>When I do ſee the Dew ſo thick,</l>
+                  <l>That covers all Earth's Face,</l>
+                  <l>Makes me to mind that Dew from He<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ven</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 6.</note>That wet all <hi>Gideon</hi>'s Fleece.</l>
+               </lg>
+               <lg n="21">
+                  <head>XXI.</head>
+                  <l>When I do ſee the Greyhound fair,</l>
+                  <l>That every thing out-runs,</l>
+                  <l>Makes me to mind my time ſo ſwift,</l>
+                  <l>That to Eternity turns.</l>
+               </lg>
+               <lg n="22">
+                  <head>XXII.</head>
+                  <l>When I do ſee the Droves of Beaſts,</l>
+                  <l>All going to be Slain,</l>
+                  <l>Makes me to mind our gracious God,</l>
+                  <l>How he provides for Men.</l>
+               </lg>
+               <pb n="23" facs="tcp:175280:14"/>
+               <lg n="23">
+                  <head>XXIII.</head>
+                  <l>When I am by the Nettle ſtung,</l>
+                  <l>And Blurs upon my Skin,</l>
+                  <l>Makes me afraid that Pitch to touch,</l>
+                  <l>Defiles my Soul with Sin.</l>
+               </lg>
+               <lg n="24">
+                  <head>XXIV.</head>
+                  <l>When I do ſee the Riſing Sun,</l>
+                  <l>With all his Glorious Beams,</l>
+                  <l>Makes me to love that Righteous Son,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Malach.</hi> 3.</note>With Healing under his Wings.</l>
+               </lg>
+               <lg n="25">
+                  <head>XXV.</head>
+                  <l>When I behold the Falcon fly,</l>
+                  <l>And Steers her Courſe ſo even,</l>
+                  <l>Makes me to mind <hi>Eliſha</hi> bright,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 2.</note>In Chariot went to Heaven.</l>
+               </lg>
+               <lg n="25">
+                  <head>XXVI.</head>
+                  <l>When I do mind <hi>Othniel</hi> ſtout,</l>
+                  <l>That fought ſo for a Wife,</l>
+                  <l>When he deſtroyed <hi>Debir</hi> ſtrong,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 1.</note>That might coſt him his life.</l>
+               </lg>
+               <lg n="27">
+                  <head>XXVII.</head>
+                  <l>When I the tired Shearers ſee,</l>
+                  <l>Do hardly lift their Hook,</l>
+                  <l>Makes me to mind that Harveſt great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 9.</note>Few Labourers has to work.</l>
+               </lg>
+               <lg n="28">
+                  <head>XXVIII.</head>
+                  <l>When I the Fig leaves ſees ſo broad,</l>
+                  <l>That pleaſant are and Green,</l>
+                  <l>Makes me to mind our Cloaths at firſt,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 3.</note>Of neither Silk nor Seam.</l>
+               </lg>
+               <lg n="29">
+                  <head>XXIX.</head>
+                  <l>When I do ſee the Ocean deep,</l>
+                  <l>With all her Banks of Sand,</l>
+                  <l>Makes me to mind <hi>Jehovah</hi> high,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 40.</note>That meaſures her in his Hand.</l>
+               </lg>
+               <pb n="24" facs="tcp:175280:15"/>
+               <lg n="30">
+                  <head>XXX.</head>
+                  <l>When I do ſee the Flock ſo thick,</l>
+                  <l>That's on bare Commons fed,</l>
+                  <l>Makes me to mind the Flock of Ch<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>By World no better ſped.</l>
+               </lg>
+               <lg n="31">
+                  <head>XXXI.</head>
+                  <l>When I do ſee the Chariots,</l>
+                  <l>That's in ſo fine attire,</l>
+                  <l>Makes me to mind <hi>Eliſha</hi>'s Guard,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 6.</note>Thoſe Chariots of Fire.</l>
+               </lg>
+               <lg n="32">
+                  <head>XXXII.</head>
+                  <l>When I do ſee the Archers ſhute,</l>
+                  <l>And Bows abiding ſtrength,</l>
+                  <l>Makes me to mind our <hi>Joſeph</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 49.</note>Whoſe Arms abode in ſtrength.</l>
+               </lg>
+               <lg n="33">
+                  <head>XXXIII.</head>
+                  <l>When we have Eaten and are full,</l>
+                  <l>Of what is in our Hand,</l>
+                  <l>Let us be thankful unto God,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 8.</note>That gave this plenty Land.</l>
+               </lg>
+               <lg n="34">
+                  <head>XXXIV.</head>
+                  <l>When I our pretty Children ſee,</l>
+                  <l>With Coats of divers Colour,</l>
+                  <l>Makes me to mind our <hi>Joſeph</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 37.</note>Who had juſt ſuch another.</l>
+               </lg>
+               <lg n="35">
+                  <head>XXXV.</head>
+                  <l>When I Sun, Moon and Stars do ſee,</l>
+                  <l>So glorious in the Heavens,</l>
+                  <l>Makes me to mind our <hi>Joſeph</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 37.</note>With all his Noble Dreams.</l>
+               </lg>
+               <lg n="36">
+                  <head>XXXVI.</head>
+                  <l>When I that <hi>Reuben</hi> right do mind,</l>
+                  <l>A tender hearted Brother,</l>
+                  <l>Should we not Loving Chriſtians be,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 37.</note>Preſerving one another.</l>
+               </lg>
+               <pb n="25" facs="tcp:175280:15"/>
+               <lg n="37">
+                  <head>XXXVII.</head>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> how doth the hunted Hart,</l>
+                  <l>For Water Pant and Bray,</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was our <hi>David</hi> for his God,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 42.</note>When hunted in <hi>Saul</hi>'s Day.</l>
+               </lg>
+               <lg n="38">
+                  <head>XXXVIII.</head>
+                  <l>When I did drink the Water ſweet,</l>
+                  <l>That comes from <hi>Jacob</hi>'s Well,</l>
+                  <l>Makes me to love that great Reward,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 22.</note>That <hi>Jacob</hi> got himſel.</l>
+               </lg>
+               <lg n="39">
+                  <head>XXXIX.</head>
+                  <l>When I the light at Morn do ſee,</l>
+                  <l>Come in the Window clear,</l>
+                  <l>Makes me to mind how light of Saints,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 5.</note>Ought to the World appear.</l>
+               </lg>
+               <lg n="40">
+                  <head>XL.</head>
+                  <l>When I do mind great <hi>Joſhua,</hi>
+                  </l>
+                  <l>With God ſuch favour fand,</l>
+                  <l>As to poſſeſs him fairly in,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 1.</note>Into that <hi>Canaan</hi>'s Land.</l>
+               </lg>
+               <lg n="41">
+                  <head>XLI.</head>
+                  <l>When I obſerve the Sabbath-day,</l>
+                  <l>To my Eternal King,</l>
+                  <l>Makes me to mind that Sabbath ſtill,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 58.</note>That Saints enjoy in Heaven.</l>
+               </lg>
+               <lg n="42">
+                  <head>XLII.</head>
+                  <l>When I do hear our Miniſters,</l>
+                  <l>Thoſe Goſpel-Tydings tell,</l>
+                  <l>Makes me to mind <hi>Jehovah</hi> high,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 20.</note>That ſpoke them firſt himſel.</l>
+               </lg>
+               <lg n="43">
+                  <head>XLIII.</head>
+                  <l>When I do hear the Pſalm ſo loud,</l>
+                  <l>Praiſing <hi>Jehovah</hi> King,</l>
+                  <l>Makes me to long to ſee that Day,</l>
+                  <l>When Saints ſhall Praiſe and Sing.</l>
+               </lg>
+               <pb facs="tcp:175280:16"/>
+               <lg n="44">
+                  <head>XLIV.</head>
+                  <l>When I behold the Promiſes great,</l>
+                  <l>And on them caſt my Eye,</l>
+                  <l>I think not much that Angels make it<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <note place="margin">1 <hi>Pet.</hi> 1.</note>Their delight to pry.</l>
+               </lg>
+               <lg n="45">
+                  <head>XLV.</head>
+                  <l>When I do lye on <hi>Cheviot</hi> Hills,</l>
+                  <l>All Night among the Heather,</l>
+                  <l>Makes me to mind that <hi>Bethel</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 28.</note>And <hi>Jacob</hi> with his Ladder.</l>
+               </lg>
+               <lg n="46">
+                  <head>XLVI.</head>
+                  <l>When I the Yellow <hi>Yalderon</hi> ſeen,</l>
+                  <l>That pretty Bird ſo fine,</l>
+                  <l>Makes me to mind <hi>Jehovah</hi> great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 2.</note>Created every kind.</l>
+               </lg>
+               <lg n="47">
+                  <head>XLVII.</head>
+                  <l>When I do ſee the Birds in Neſts,</l>
+                  <l>So curiouſly to breed,</l>
+                  <l>Makes me to mind my Saviour dear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luk.</hi> 9.</note>Knew not to lay his Head.</l>
+               </lg>
+               <lg n="48">
+                  <head>XLVIII.</head>
+                  <l>When I do ſee the Garden fair.</l>
+                  <l>And Flowers ſo pleaſant in,</l>
+                  <l>Makes me to mind that Paradice,</l>
+                  <l>Where firſt began our Sin.</l>
+               </lg>
+               <lg n="49">
+                  <head>XLIX.</head>
+                  <l>Hoſanna's high <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>Your King comes on an Aſs,</l>
+                  <l>With all thoſe Palm-trees in your Hands<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 12.</note>The way that he is to paſs.</l>
+               </lg>
+               <lg n="50">
+                  <head>L.</head>
+                  <l>When I do feel that pleaſant ſmell,</l>
+                  <l>The Balm has under ſhade,</l>
+                  <l>Makes me to mind that Balm ſo fine,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 37.</note>That came from <hi>Gilead.</hi>
+                  </l>
+               </lg>
+               <pb n="27" facs="tcp:175280:16"/>
+               <lg n="51">
+                  <head>LI.</head>
+                  <l>When I do ſee the Stone ſo ſwift,</l>
+                  <l>That from the Sling proceed,</l>
+                  <l>Makes me to mind how deep it ſunk,</l>
+                  <l>
+                     <note place="margin">1 <hi>Sam.</hi> 17.</note>Into <hi>Goliah</hi>'s Head.</l>
+               </lg>
+               <lg n="52">
+                  <head>LII.</head>
+                  <l>When I do ſee the Ax ſo ſharp,</l>
+                  <l>That cuts the Wood ſo green,</l>
+                  <l>Makes me to mind <hi>Eliſha</hi> right,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 6.</note>That cauſed Iron to ſwim.</l>
+               </lg>
+               <lg n="53">
+                  <head>LIII.</head>
+                  <l>When I do ſee the Dew ſo thick,</l>
+                  <l>Upon the Graſs that's mowen,</l>
+                  <l>Makes me to mind the Duty right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 72.</note>That Magiſtrates are owing.</l>
+               </lg>
+               <lg n="54">
+                  <head>LIV.</head>
+                  <l>When I do mind Electing Chains,</l>
+                  <l>In <hi>Romans</hi> Eight that be,</l>
+                  <l>Wiſh God may ſhew me the firſt Link,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rom.</hi> 8.</note>The reſt will come to me.</l>
+               </lg>
+               <lg n="55">
+                  <head>LV.</head>
+                  <l>Make haſte <hi>Zacheus,</hi> and climb the Tree,</l>
+                  <l>By comes <hi>Zion</hi>'s King,</l>
+                  <l>Which to thy Houſe Salvation,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luk.</hi> 19.</note>This Day ſhall freely bring.</l>
+               </lg>
+               <lg n="56">
+                  <head>LVI.</head>
+                  <l>When I do hear a Flatterer,</l>
+                  <l>For all his pleaſant words,</l>
+                  <l>Yet I will mind his Tales to me,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 55.</note>Is like to Drawn Swords.</l>
+               </lg>
+               <lg n="57">
+                  <head>LVII.</head>
+                  <l>When I do ſee the Worldly proud,</l>
+                  <l>And no good in their mean,</l>
+                  <l>I think they're as great Fools to ſee,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Jerem.</hi> 7.</note>As Cokers to the Queen of Heaven.</l>
+               </lg>
+               <pb n="28" facs="tcp:175280:17"/>
+               <lg n="58">
+                  <head>LVIII.</head>
+                  <l>When I thoſe Heads ſo high do ſee,</l>
+                  <l>Our Female Sex do wear,</l>
+                  <l>Makes me to think the Judgment-Day<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 3.16.</note>Should make them all to fear.</l>
+               </lg>
+               <lg n="59">
+                  <head>LIX.</head>
+                  <l>When I do ſee them Patch and Paine<g ref="char:punc">▪</g>
+                  </l>
+                  <l>That does their Face ſo tear,</l>
+                  <l>Makes me to mind the ſad lament,</l>
+                  <l>Of <hi>Judah,</hi>
+                     <note place="margin">
+                        <hi>Jer.</hi> 4.</note> tho' they wear.</l>
+               </lg>
+               <lg n="60">
+                  <head>LX.</head>
+                  <l>When I unthankful Men do ſee,</l>
+                  <l>Fed in our Land ſo thick,</l>
+                  <l>Makes me to mind <hi>Jeſurun</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 32.</note>When he with fat did kick.</l>
+               </lg>
+               <lg n="61">
+                  <head>LXI.</head>
+                  <l>When we do hear Idolaters,</l>
+                  <l>For all their fair pretence,</l>
+                  <l>Yet let us look the Scripture clear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 13,</note>It's wholly our defence.</l>
+               </lg>
+               <lg n="62">
+                  <head>LXII.</head>
+                  <l>When I do ſee Idolaters,</l>
+                  <l>At their Devotion falſe,</l>
+                  <l>Makes me to mind <hi>Jeroboam</hi> ſo clear,</l>
+                  <l>
+                     <note place="margin">1 <hi>King.</hi> 12.</note>His <hi>Dan</hi> and <hi>Bethel</hi>'s Calves.</l>
+               </lg>
+               <lg n="63">
+                  <head>LXIII.</head>
+                  <l>When I do ſee the Kine ſo fat,</l>
+                  <l>That's fed on Meadows green,</l>
+                  <l>Makes me to mind that Emblem right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 41.</note>Of <hi>Pharaoh</hi> with his Dream.</l>
+               </lg>
+               <lg n="64">
+                  <head>LXIV.</head>
+                  <l>When I do ſee the Smoke ſo thick,</l>
+                  <l>That from the Chimney fly,</l>
+                  <l>Makes me to mind how Smoke of Sin,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 66.</note>Aſcends the Heavens high.</l>
+               </lg>
+               <pb n="29" facs="tcp:175280:17"/>
+               <lg n="65">
+                  <head>LXV.</head>
+                  <l>When I do ſee the raging Sea,</l>
+                  <l>So throwing out her filth,</l>
+                  <l>Makes me to mind the wicked's Life,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 57.</note>With pity in their mirth.</l>
+               </lg>
+               <lg n="66">
+                  <head>LXVI.</head>
+                  <l>When I the Scarlet fine do ſee,</l>
+                  <l>So Curious and Red,</l>
+                  <l>Makes me to mind that <hi>Rachab'</hi>s Sign,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Joſh.</hi> 2.</note>Was by a Scarlet Thread.</l>
+               </lg>
+               <lg n="67">
+                  <head>LXVII.</head>
+                  <l>When I behold the Field in <hi>May,</hi>
+                  </l>
+                  <l>So pleaſant and ſo green,</l>
+                  <l>Makes me to mind that glory ſtill,</l>
+                  <l>That Saints enjoy in Heaven.</l>
+               </lg>
+               <lg n="68">
+                  <head>LXVIII.</head>
+                  <l>When I do ſee the Boughs ſo green,</l>
+                  <l>To ſpread themſelves by Well,</l>
+                  <l>Makes me to mind that fruitful Branch,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 49.</note>Of <hi>Joſeph</hi> over Wall.</l>
+               </lg>
+               <lg n="69">
+                  <head>LXIX.</head>
+                  <l>When I do ſee the Serpent crawl,</l>
+                  <l>On Belly as a Slave,</l>
+                  <l>Makes me to mind its puniſhment,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 3.</note>Since it deceived <hi>Eve.</hi>
+                  </l>
+               </lg>
+               <lg n="70">
+                  <head>LXX.</head>
+                  <l>When I do ſee the Water run,</l>
+                  <l>That hath her Banks ſo torn,</l>
+                  <l>Makes me to mind that <hi>Reuben</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 49.</note>That was to <hi>Jacob</hi> born.</l>
+               </lg>
+               <lg n="71">
+                  <head>LXXI.</head>
+                  <l>When I do ſee the Fire burn,</l>
+                  <l>With Colours Red and Blue,</l>
+                  <l>Makes me to mind how it conſum'd,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Levit.</hi> 30.</note>
+                     <hi>Nadab</hi> and <hi>Abihu.</hi>
+                  </l>
+               </lg>
+               <pb n="30" facs="tcp:175280:18"/>
+               <lg n="72">
+                  <head>LXXII.</head>
+                  <l>Now when the Meadow's full of Gra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>It's pleaſant to be ſeen,</l>
+                  <l>Makes me to mind our <hi>David</hi> right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 23.</note>With all his Paſtures Green.</l>
+               </lg>
+               <lg n="73">
+                  <head>LXXIII.</head>
+                  <l>When I do hear the Black-bird ſing,</l>
+                  <l>In the Month of <hi>May,</hi>
+                  </l>
+                  <l>Makes me to mind the pleaſant Song</l>
+                  <l>That Saints do ſing alway.</l>
+               </lg>
+               <lg n="74">
+                  <head>LXXIV.</head>
+                  <l>Into us happily the Lines,</l>
+                  <l>In pleaſant places fell,</l>
+                  <l>Becauſe our Goſpel firmly ſtands,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 16.</note>Againſt the Gates of Hell.</l>
+               </lg>
+               <lg n="75">
+                  <head>LXXV.</head>
+                  <l>When I do ſee Profeſſors fair,</l>
+                  <l>With every Wind to ſhake,</l>
+                  <l>Makes me to mind that <hi>Demas</hi> guilt,</l>
+                  <l>
+                     <note place="margin">2 <hi>Tim.</hi> 4.</note>That did the Truth forſake.</l>
+               </lg>
+               <lg n="76">
+                  <head>LXXVI.</head>
+                  <l>When I the Tiles on Houſes ſee,</l>
+                  <l>With all their crooked forms,</l>
+                  <l>Makes me to mind how <hi>Luther</hi> bold,</l>
+                  <l>Went to the City <hi>Wormes.</hi>
+                  </l>
+               </lg>
+               <lg n="77">
+                  <head>LXXVII.</head>
+                  <l>When I do hear the Oxen Low,</l>
+                  <l>And Bleating of the Sheep,</l>
+                  <l>Makes me to mind ſuch Sacrifice,</l>
+                  <l>
+                     <note place="margin">2 <hi>Sam.</hi> 15.</note>As <hi>Saul</hi> of <hi>Agag</hi> kept.</l>
+               </lg>
+               <lg n="78">
+                  <head>LXXVIII.</head>
+                  <l>When I do hear them Curſe and Sw<gap reason="illegible" resp="#OXF" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>Such Oaths would tear thy Sky,</l>
+                  <l>Makes me to think our God's moſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 24.</note>Does not in Hell them tye.</l>
+               </lg>
+               <pb n="31" facs="tcp:175280:18"/>
+               <lg n="79">
+                  <head>LXXIX.</head>
+                  <l>When I the Sun on Dial ſee,</l>
+                  <l>It does my fancy raiſe,</l>
+                  <l>How it went backward Ten Degrees,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 20.</note>On the Dial of <hi>Ahaze.</hi>
+                  </l>
+               </lg>
+               <lg n="80">
+                  <head>LXXX.</head>
+                  <l>When I am tempted from Day to Day,</l>
+                  <l>With Enemies Mercileſs,</l>
+                  <l>Makes me to mind my Saviour dear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luke</hi> 4.</note>How in the Wilderneſs.</l>
+               </lg>
+               <lg n="81">
+                  <head>LXXXI.</head>
+                  <l>When I do drink the water clear,</l>
+                  <l>That's in the River <hi>Tweed,</hi>
+                  </l>
+                  <l>Makes me to mind that River ſtill,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 22.</note>That does the Saints ſo feed.</l>
+               </lg>
+               <lg n="82">
+                  <head>LXXXII.</head>
+                  <l>When I behold the Chickens young,</l>
+                  <l>And Hen their kindly Mother,</l>
+                  <l>How carefully her Wings ſhe ſpreads,</l>
+                  <l>Them from all harm to cover;</l>
+                  <l>Makes me to mind that Offer great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 23.</note>Which Chriſt did give our Mother.</l>
+               </lg>
+               <lg n="83">
+                  <head>LXXXIII.</head>
+                  <l>When I do ſee the Swallow ſwift,</l>
+                  <l>So quick in Motion fly,</l>
+                  <l>Makes me to mind my time ſo quick,</l>
+                  <l>Poſts to Eternity.</l>
+               </lg>
+               <lg n="84">
+                  <head>LXXXIV.</head>
+                  <l>O who art thou great <hi>Pharaoh</hi>'s Hoſt,</l>
+                  <l>Will not obey our King?</l>
+                  <l>Before to Morrow-day be light,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 15.</note>Thou'lt find another thing.</l>
+               </lg>
+               <lg n="85">
+                  <head>LXXXV.</head>
+                  <l>When I the Hony-ſuckle ſee,</l>
+                  <l>With all her Paps ſo fine,</l>
+                  <l>How ſhe does feed the induſtrious Bee,</l>
+                  <l>Which makes her Honey mine.</l>
+               </lg>
+               <pb n="32" facs="tcp:175280:19"/>
+               <lg n="86">
+                  <head>LXXXVI.</head>
+                  <l>When I behold the glorious Stars,</l>
+                  <l>From Heaven downward fell,</l>
+                  <l>Makes me to mind proud <hi>Lucifer,</hi>
+                  </l>
+                  <l>Like lightning's dropt to Hell.</l>
+               </lg>
+               <lg n="87">
+                  <head>LXXXVII.</head>
+                  <l>When we the Poor hear at the Door,</l>
+                  <l>That cannot help themſel,</l>
+                  <l>Let us draw out our Bowels to ſuch,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Luke</hi> 16.</note>Leſt we get <hi>Dives</hi> Hell.</l>
+               </lg>
+               <lg n="88">
+                  <head>LXXXVIII.</head>
+                  <l>When I do mind the Loaves and Fiſher few</l>
+                  <l>That fed ſo many Men,</l>
+                  <l>Makes me to love my Maker dear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 14,</note>That does take care of them.</l>
+               </lg>
+               <lg n="89">
+                  <head>LXXXIX.</head>
+                  <l>When I do ſee the glorious Sun,</l>
+                  <l>So Red do ſet at Even,</l>
+                  <l>Makes me to mind thoſe Chariots Red,</l>
+                  <l>That carries Martyrs to Heaven.</l>
+               </lg>
+               <lg n="90">
+                  <head>XC.</head>
+                  <l>When I do ſee the Lilies fair,</l>
+                  <l>That in the Vallies grow,</l>
+                  <l>How pleaſant all their Garments are,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Math.</hi> 6.</note>Of neither Flax nor Tow.</l>
+               </lg>
+               <lg n="91">
+                  <head>XCI.</head>
+                  <l>When I the Saints Graves do ſee,</l>
+                  <l>And Bones about them lye,</l>
+                  <l>Makes me to mind <hi>Ezekiel</hi>'s Days,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Ezek.</hi> 37.</note>When more of them was dry.</l>
+               </lg>
+               <lg n="92">
+                  <head>XCII.</head>
+                  <l>When I do ſee the Salmons breed,</l>
+                  <l>And their innumerable fry,</l>
+                  <l>Makes me to praiſe my Maker good,</l>
+                  <l>With his governing Eye.</l>
+               </lg>
+               <pb n="33" facs="tcp:175280:19"/>
+               <lg n="93">
+                  <head>XCIII.</head>
+                  <l>When I do ſee the Wind-Mill clear,</l>
+                  <l>And all her Sails ſo wide,</l>
+                  <l>Makes me to mind that Grinder ſtrong,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 16.</note>sWhich bruiſed the <hi>Philiſtines</hi> Head.</l>
+               </lg>
+               <lg n="94">
+                  <head>XCIV.</head>
+                  <l>When I do ſee the Dew ſo thick,</l>
+                  <l>That on the Oxen lye,</l>
+                  <l>Makes me admire that <hi>Babyloniſh</hi> King,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Dan.</hi> 4.</note>That once did ring ſo high.</l>
+               </lg>
+               <lg n="95">
+                  <head>XCV.</head>
+                  <l>When I do ſee the Peewits gay,</l>
+                  <l>With their Top, and white Breaſts,</l>
+                  <l>Makes me to mind that rouſing day,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 10.</note>
+                     <hi>Jehu</hi> with <hi>Baa</hi>'s Prieſts.</l>
+               </lg>
+               <lg n="96">
+                  <head>XCVI.</head>
+                  <l>When I behold the Woods ſo Green,</l>
+                  <l>So purely ſpread and ſmell,</l>
+                  <l>Makes me to mind <hi>
+                        <gap reason="illegible" resp="#OXF" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>hovah</hi>'s praiſe,</l>
+                  <l>That made them all himſel.</l>
+               </lg>
+               <lg n="97">
+                  <head>XCVII.</head>
+                  <l>When I the Butter-fly do ſee,</l>
+                  <l>With her brave painted Wings,</l>
+                  <l>Makes me to mind my Maker great,</l>
+                  <l>That did create all things.</l>
+               </lg>
+               <lg n="98">
+                  <head>XCVIII.</head>
+                  <l>When I the Robin-Red-breaſt ſee,</l>
+                  <l>That pretty Bird of fame,</l>
+                  <l>Makes me to mind the Sons of Men,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Jam.</hi> 3.</note>Whoſe Tongues can never tame.</l>
+               </lg>
+               <lg n="99">
+                  <head>XCIX.</head>
+                  <l>When I the Honey-comb do ſee,</l>
+                  <l>So Curiouſly wrought,</l>
+                  <l>Makes me to mind my Maker's praiſe,</l>
+                  <l>Who hath all Creatures taught.</l>
+               </lg>
+               <pb n="34" facs="tcp:175280:20"/>
+               <lg n="100">
+                  <head>C.</head>
+                  <l>When I do ſee the Wheels ſo quick,</l>
+                  <l>And all its Spokes to turn,</l>
+                  <l>Makes me to mind that Fortune ſly,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Prov.</hi> 23.</note>Whoſe Wings are on the Wind.</l>
+               </lg>
+            </div>
+            <div n="3" type="hundred">
+               <head>Cent. III.</head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>WHEN I do ſee the Stars ſo clear</l>
+                  <l>That were the Wiſemens guiding</l>
+                  <l>Makes me to mind the glorious Night</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 2.</note>Brought Heaven &amp; Earth glad-tyding<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>When I do ſee the glorious Stars,</l>
+                  <l>In Number ſo excell,</l>
+                  <l>Makes me to ſhow my Maker's praiſe,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 47.</note>That all of them do tell.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>When I do ſee the Bread ſo broke,</l>
+                  <l>Communicants before,</l>
+                  <l>Makes me to mind Chriſt's Body brok<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">1 <hi>Cor.</hi> 11.</note>Our Sins upon him bore.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>When I do ſee the pleaſant Dew,</l>
+                  <l>So thick on Graſs to fall,</l>
+                  <l>Makes me to mind that Promiſe ſweet,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Hoſ.</hi> 14.</note>As due to <hi>Iſrael.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>When I behold the Serpent right,</l>
+                  <l>That Enemy of Man,</l>
+                  <l>Makes me to mind that Propheſie,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 49.</note>That's ſpoken of to <hi>Dan.</hi>
+                  </l>
+               </lg>
+               <pb n="35" facs="tcp:175280:20"/>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>When I conſider <hi>Sheba</hi>'s Queen,</l>
+                  <l>Whom <hi>Solomon</hi> did behold,</l>
+                  <l>With her moſt Noble Gifts to him,</l>
+                  <l>
+                     <note place="margin">1 <hi>King.</hi> 10.</note>That was of beaten Gold.</l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>When I do ſee the Weeds ſo thick,</l>
+                  <l>Amongſt the Corn that grow,</l>
+                  <l>Makes me to mind that wicked Crew,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 13.</note>Amongſt God's Plants that flow.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.</head>
+                  <l>When I do ſee the Birds on Earth,</l>
+                  <l>So plenteouſly to breed,</l>
+                  <l>Makes me to mind my Maker good,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mat.</hi> 6.</note>Them every one does feed.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX</head>
+                  <l>When I do ſee the Oxen ſtrong,</l>
+                  <l>So calm in Yoke does draw,</l>
+                  <l>Shall I not love the Yoke of Chriſt,</l>
+                  <l>That keepeth me in aw.</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>When I do ſee the Embroiderers Gold,</l>
+                  <l>And all his works ſo clear,</l>
+                  <l>Makes me to mind the glorious Robes,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 45.</note>Kings Daughters are to wear.</l>
+               </lg>
+               <lg n="11">
+                  <head>XI.</head>
+                  <l>When I the Doves among the Rocks,</l>
+                  <l>So carefully do ſpy,</l>
+                  <l>Ought not the Doves of Chriſt much more,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Cantic.</hi> 2.</note>Fly to their Rock moſt High.</l>
+               </lg>
+               <lg n="12">
+                  <head>XII.</head>
+                  <l>When I do drink the Water clear,</l>
+                  <l>That comes from <hi>Trinity</hi> Well,</l>
+                  <l>Makes me to mind thoſe Perſons Three,</l>
+                  <l>
+                     <note place="margin">1 <hi>John</hi> 5.</note>That all in One do dwell.</l>
+               </lg>
+               <pb n="36" facs="tcp:175280:21"/>
+               <lg n="13">
+                  <head>XIII.</head>
+                  <l>When I am by the Bee ſo ſtung,</l>
+                  <l>That all my Face do ſwell,</l>
+                  <l>Makes me to hate theſe Roaring Devil</l>
+                  <l>
+                     <note place="margin">1 <hi>Pet.</hi> 5.8.</note>Would ſting us all to Hell.</l>
+               </lg>
+               <lg n="14">
+                  <head>XIV.</head>
+                  <l>When I do ſee the Hornets thick,</l>
+                  <l>That does our Beaſts ſo ſting,</l>
+                  <l>Makes me to mind their Plague ſo ſore</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Joſh.</hi> 24.</note>Who drove the <hi>Amcrites</hi> King.</l>
+               </lg>
+               <lg n="15">
+                  <head>XV.</head>
+                  <l>When I the Leviathan ſee,</l>
+                  <l>That in the Water plays,</l>
+                  <l>Makes me to magnifie my God,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 104.</note>That made her for his praiſe.</l>
+               </lg>
+               <lg n="16">
+                  <head>XVI.</head>
+                  <l>When I the <hi>Behemoth</hi> do ſee,</l>
+                  <l>Which does all Beaſts excell,</l>
+                  <l>Makes me to praiſe <hi>fehovah</hi> High,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Job</hi> 4.</note>Which did Create them all.</l>
+               </lg>
+               <lg n="17">
+                  <head>XVII.</head>
+                  <l>When I do ſee the Sky ſo clear,</l>
+                  <l>And Sun ſo bright excell,</l>
+                  <l>Makes me to mind thoſe glorious Hea<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Where Saints ſo many dwell.</l>
+               </lg>
+               <lg n="18">
+                  <head>XVIII.</head>
+                  <l>When I do hear the Black-bird ſing,</l>
+                  <l>Warbling her pleaſant chants,</l>
+                  <l>Makes me to long to ſee that Day,</l>
+                  <l>I'll ſing in Heaven with Saints.</l>
+               </lg>
+               <lg n="19">
+                  <head>XIX.</head>
+                  <l>When I do ſee the quaking Aſp,</l>
+                  <l>Continually to ſhake,</l>
+                  <l>Makes me to mind thoſe Conſcience guile</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 4.</note>Made <hi>Cain</hi> and <hi>Judas</hi> quake.</l>
+               </lg>
+               <pb n="37" facs="tcp:175280:21"/>
+               <lg n="20">
+                  <head>XX.</head>
+                  <l>When I do ſee the loving Mother,</l>
+                  <l>Preſerve her Child from harms,</l>
+                  <l>Makes me to mind my Savior dear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Mark</hi> 10.</note>Who bieſs'd them in his Arms.</l>
+               </lg>
+               <lg n="21">
+                  <head>XXI.</head>
+                  <l>When I do hear the Winds ſo loud,</l>
+                  <l>With its Rebounding ſound,</l>
+                  <l>Makes me to mind thoſe Treaſures great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Prov.</hi> 30.</note>God in his Hand hath bound.</l>
+               </lg>
+               <lg n="22">
+                  <head>XXII</head>
+                  <l>When I do ſee the Fox-tree Leaves,</l>
+                  <l>And all her beauteous Bells,</l>
+                  <l>Makes me to mind the glorious Robes,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 28.</note>That <hi>Aaron</hi> wore with Bells.</l>
+               </lg>
+               <lg n="23">
+                  <head>XXIII.</head>
+                  <l>O let us thankful be to God,</l>
+                  <l>For good things we poſſeſs,</l>
+                  <l>Leſt turns the Scale of Providence,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 28.</note>And Enemies us Oppreſs.</l>
+               </lg>
+               <lg n="24">
+                  <head>XXIV.</head>
+                  <l>When I do ſee the Fire burn,</l>
+                  <l>And all its ſmoke expell,</l>
+                  <l>Makes me to thank my glorious Lord,</l>
+                  <l>Delivers Saints from Hell.</l>
+               </lg>
+               <lg n="25">
+                  <head>XXV.</head>
+                  <l>
+                     <note place="margin">A Wood-Picker.</note>When I that pleaſant Bird do ſee,</l>
+                  <l>With Colours deck'd ſo fine,</l>
+                  <l>Makes me to mind the Rainbow right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 9.</note>To us that is a Sign.</l>
+               </lg>
+               <lg n="26">
+                  <head>XXVI.</head>
+                  <l>When I the Truth ſee ſore oppreſt,</l>
+                  <l>And Providences dark,</l>
+                  <l>Makes me to mind that <hi>Ichabod,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">1 <hi>Sam.</hi> 4.</note>When <hi>Philiſtines</hi> took the Ark</l>
+               </lg>
+               <pb n="38" facs="tcp:175280:22"/>
+               <lg n="27">
+                  <head>XXVII.</head>
+                  <l>When I do ſee the Wicked Men,</l>
+                  <l>That ſins with ſuch deſire,</l>
+                  <l>Makes me to mind the Swine ſo Vile</l>
+                  <l>
+                     <note place="margin">2 <hi>Pet.</hi> 2.</note>That wallows in the Mire.</l>
+               </lg>
+               <lg n="28">
+                  <head>XXVIII.</head>
+                  <l>When I the Rocks and Mountains ſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Upon the Earth ſo tall,</l>
+                  <l>Makes me to mind the wickeds wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 6.</note>Upon them all to fall.</l>
+               </lg>
+               <lg n="29">
+                  <head>XXIX.</head>
+                  <l>When I the Trading Chap-men ſee,</l>
+                  <l>That Travels thro' each Land,</l>
+                  <l>Makes me to mind how that of Old,</l>
+                  <l>
+                     <note place="margin">2 <hi>Chr.</hi> 9.</note>They brought Gold to <hi>Solomon</hi>'s <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg n="30">
+                  <head>XXX.</head>
+                  <l>When I do ſee our Bodies fine,</l>
+                  <l>Yet come to Death we muſt,</l>
+                  <l>Makes me to mind both firſt and la<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 3.</note>They are but very Duſt.</l>
+               </lg>
+               <lg n="31">
+                  <head>XXXI.</head>
+                  <l>When I do ſee them throw the ſton<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>And hit the Mark ſo even,</l>
+                  <l>Makes me to mind theſe wicked Cr<gap reason="illegible" resp="#OXF" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Acts</hi> 7.</note>That ſtoned our Glorious <hi>Stephen</hi>
+                  </l>
+               </lg>
+               <lg n="32">
+                  <head>XXXII.</head>
+                  <l>When I do hear the Trumpet clear,</l>
+                  <l>My fancy does effect,</l>
+                  <l>Makes me to mind how Angels ſou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Macth.</hi> 24.</note>When gathers the Elect.</l>
+               </lg>
+               <lg n="33">
+                  <head>XXXIII.</head>
+                  <l>When I do ſee the Bread ſo white,</l>
+                  <l>Our Food that is ſo clean,</l>
+                  <l>Makes me to mind the Baker right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 40.</note>And Butler with their Dream.</l>
+               </lg>
+               <pb n="39" facs="tcp:175280:22"/>
+               <lg n="34">
+                  <head>XXXIV.</head>
+                  <l>When I the Cock at Morn do hear,</l>
+                  <l>That Crows ſo pleaſantly,</l>
+                  <l>Makes me to mind that Apoſtle great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 26.</note>That did his Lord deny.</l>
+               </lg>
+               <lg n="35">
+                  <head>XXXV.</head>
+                  <l>When I do ſee the Sabbath broke,</l>
+                  <l>And people play ſuch tricks,</l>
+                  <l>Makes me to mind the puniſhment,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Num.</hi> 15.</note>Of him that gather'd ſticks.</l>
+               </lg>
+               <lg n="36">
+                  <head>XXXVI.</head>
+                  <l>When we are drunk to morrow next,</l>
+                  <l>I think we're worſe than Beaſt,</l>
+                  <l>That drinks no more of water clear,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 104.</note>Than fully quench its thirſt.</l>
+               </lg>
+               <lg n="37">
+                  <head>XXXVII.</head>
+                  <l>When I do ſee the Rocks ſo high,</l>
+                  <l>And Goats that on them climb,</l>
+                  <l>Makes me to mind that Scape-goat high,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Levit.</hi> 16.</note>That takes away my Sin.</l>
+               </lg>
+               <lg n="38">
+                  <head>XXXVIII.</head>
+                  <l>When I do ſee the Sun beams ſhine,</l>
+                  <l>So brightly through the Clouds,</l>
+                  <l>Makes me to mind that glorious Day,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 24.</note>When Chriſt comes thro' as Judge.</l>
+               </lg>
+               <lg n="39">
+                  <head>XXXIX.</head>
+                  <l>When I do ſee the water clear,</l>
+                  <l>And Fiſh ſo pleaſant play,</l>
+                  <l>Makes me to mind that Ocean deep,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 1.</note>That waſh my Sins away.</l>
+               </lg>
+               <lg n="40">
+                  <head>XL.</head>
+                  <l>When I the Catter-pillars ſee,</l>
+                  <l>So thick on Trees to cling,</l>
+                  <l>Makes me to mind that Plague of them,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 105.</note>That fell on <hi>Egypt</hi>'s King.</l>
+               </lg>
+               <pb n="40" facs="tcp:175280:23"/>
+               <lg n="41">
+                  <head>XLI.</head>
+                  <l>When I do ſee the Stump of Trees,</l>
+                  <l>So pleaſantly to ſpring,</l>
+                  <l>Makes me to mind <hi>Nebuchadnezzar</hi> high,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Dan.</hi> 4.</note>That <hi>Babyloniſh</hi> King.</l>
+               </lg>
+               <lg n="42">
+                  <head>XLII.</head>
+                  <l>When I do ſee the Ocean great,</l>
+                  <l>That ſtill does ebb and flow,</l>
+                  <l>Makes me to mind that myſtery great,</l>
+                  <l>That no Man living know,</l>
+               </lg>
+               <lg n="43">
+                  <head>XLIII.</head>
+                  <l>When I do ſee the <hi>Beelzebub,</hi>
+                  </l>
+                  <l>That porſonous, naſty fly,</l>
+                  <l>Makes me to hate great <hi>Beelzebub,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Eph.</hi> 6.</note>That caſts his Darts ſo ſly.</l>
+               </lg>
+               <lg n="44">
+                  <head>XLIV.</head>
+                  <l>When I do ſee the Sea ſo rough,</l>
+                  <l>And all her Waves hears Roars,</l>
+                  <l>Makes me to love my Maker kind,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Job</hi> 38.</note>That keeps her in at Doors.</l>
+               </lg>
+               <lg n="45">
+                  <head>XLV.</head>
+                  <l>When I do ſee the Stones ſo thick,</l>
+                  <l>That on the way do lye,</l>
+                  <l>Makes me to mind that ſtone ſo great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 21.</note>Makes Men to Powder fly.</l>
+               </lg>
+               <lg n="46">
+                  <head>XLVI.</head>
+                  <l>When I do ſee the Nonſuch Flower,</l>
+                  <l>For all it is ſo fine,</l>
+                  <l>Yet I do love the Lilly more,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſ.</hi> 127.3.</note>Becauſe ſhe's granted mine.</l>
+               </lg>
+               <lg n="47">
+                  <head>XLVII.</head>
+                  <l>When I the Saints Graves do mind,</l>
+                  <l>That formerly I have ſeen,</l>
+                  <l>Makes me to long that glorious Day,</l>
+                  <l>We'll meet again in Heaven.</l>
+               </lg>
+               <pb n="41" facs="tcp:175280:23"/>
+               <lg n="48">
+                  <head>XLVIII.</head>
+                  <l>When I do ſee the Marygold,</l>
+                  <l>The Clover, and Sun's-flower,</l>
+                  <l>How carefully they open and ſhut,</l>
+                  <l>According to its Hour:</l>
+                  <l>An Emblem to Watch and Pray,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Matth.</hi> 24.</note>That knows not our Son's Hour.</l>
+               </lg>
+               <lg n="49">
+                  <head>XLIX.</head>
+                  <l>When I the Cockhead Red do ſee,</l>
+                  <l>That grows amongſt the Corn,</l>
+                  <l>Makes me to mind that dreadful Night,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 12.</note>Of <hi>Egypt</hi> her firſt-born.</l>
+               </lg>
+               <lg n="50">
+                  <head>L.</head>
+                  <l>When I do ſee the Blood ſo Red,</l>
+                  <l>That cometh from the Lamb,</l>
+                  <l>Makes me to mind that Glorious Night,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 12.</note>Of <hi>Iſrael</hi>'s Paſchal Lamb.</l>
+               </lg>
+               <lg n="51">
+                  <head>LI.</head>
+                  <l>When I do ſee the Oak ſo great,</l>
+                  <l>That's found in the Moſs Band,</l>
+                  <l>Makes me to mind that <hi>Noah</hi>'s Flood,</l>
+                  <l>That caus'd 'em there be fande.</l>
+               </lg>
+               <lg n="52">
+                  <head>LII.</head>
+                  <l>When I do ſee them cleave the Wood,</l>
+                  <l>They in the Fire burn,</l>
+                  <l>Makes me to mind that Offering,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 22.</note>Of <hi>Abraham</hi> with his Son.</l>
+               </lg>
+               <lg n="53">
+                  <head>LIII.</head>
+                  <l>When I do ſee the Ship ſo ſwift,</l>
+                  <l>And all her Sails ſo clean,</l>
+                  <l>How ſhe the water quick does ſhed,</l>
+                  <l>To her deſired Haven:</l>
+                  <l>Makes me to mind thoſe Holy Saints,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Phil.</hi> 3.</note>In Motion quick for Heaven.</l>
+               </lg>
+               <pb n="42" facs="tcp:175280:24"/>
+               <lg n="54">
+                  <head>LIV.</head>
+                  <l>When I do ſee the Feet of Men,</l>
+                  <l>Upon the Aſhes go,</l>
+                  <l>Makes me to mind how Feet of Saints,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Malach.</hi> 3.</note>Shall tread the wicked low.</l>
+               </lg>
+               <lg n="55">
+                  <head>LV.</head>
+                  <l>Though all the World go after Sin,</l>
+                  <l>As <hi>Daniel</hi> ſaw full well,</l>
+                  <l>Who rather than offend his God,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Dan.</hi> 6.</note>Choſe Lions Den to dwell.</l>
+               </lg>
+               <lg n="56">
+                  <head>LVI.</head>
+                  <l>When I am hungry and ſo faint,</l>
+                  <l>And cannot help my ſel,</l>
+                  <l>Yet I'll believe in God my King,</l>
+                  <l>In whom all fulneſs dwell.</l>
+               </lg>
+               <lg n="57">
+                  <head>LVII.</head>
+                  <l>When I behold the Milk white Swan</l>
+                  <l>Of all the Fowls the Queen,</l>
+                  <l>Makes me to mind thoſe pure Whi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Robe<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 7.</note>That Saints do wear in Heaven.</l>
+               </lg>
+               <lg n="58">
+                  <head>LVIII.</head>
+                  <l>When I go thro' the Thorns ſo thick</l>
+                  <l>That does my Clothes ſo tear,</l>
+                  <l>Makes me to mind that Crown of them</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 19.</note>My Saviour did wear.</l>
+               </lg>
+               <lg n="59">
+                  <head>LIX.</head>
+                  <l>When I do ſee thoſe Garments fine,</l>
+                  <l>Our Gallantries do wear,</l>
+                  <l>Makes me to mind that Garment gay</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Joſhua</hi> 7.</note>Coſt <hi>Achan</hi>'s Life ſo dear.</l>
+               </lg>
+               <lg n="60">
+                  <head>LX.</head>
+                  <l>When I am wet with Rain ſo thick,</l>
+                  <l>I am in ſorry Mood,</l>
+                  <l>Makes me to mind that Rain ſo great</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 7.</note>That did begin the Flood.</l>
+               </lg>
+               <pb n="43" facs="tcp:175280:24"/>
+               <lg n="61">
+                  <head>LXI.</head>
+                  <l>When I do ſee the Snail ſo ſlide,</l>
+                  <l>And Houſe upon her Back,</l>
+                  <l>Makes me to mind that Emblem fair,</l>
+                  <l>
+                     <note place="margin">1 <hi>Tim.</hi> 5.</note>What care we ought to take.</l>
+               </lg>
+               <lg n="62">
+                  <head>LXII.</head>
+                  <l>When I do ſee the Husband-man,</l>
+                  <l>The Land to Plow and Sow,</l>
+                  <l>Makes me to mind that Seed of Grace,</l>
+                  <l>Which God in Hearts do Sow.</l>
+               </lg>
+               <lg n="63">
+                  <head>LXIII.</head>
+                  <l>When I do ſee the Chryſtal clear,</l>
+                  <l>That's beautiful and clean,</l>
+                  <l>Makes me to mind the Sea of Glaſs,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 4.</note>That's ſpoken of in Heaven.</l>
+               </lg>
+               <lg n="64">
+                  <head>LXIV.</head>
+                  <l>When I do Wade the Water deep,</l>
+                  <l>And feel it is ſo Cold,</l>
+                  <l>Makes me to mind that Ocean deep,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 14.</note>That <hi>Pharaoh</hi> found of Old.</l>
+               </lg>
+               <lg n="65">
+                  <head>LXV.</head>
+                  <l>When I do hear the Thunder loud,</l>
+                  <l>Sees Fire like a Flame,</l>
+                  <l>Makes me to mind that Storm ſo great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 19.</note>That <hi>Sodom</hi> overcame.</l>
+               </lg>
+               <lg n="66">
+                  <head>LXVI.</head>
+                  <l>When I do ſee the Spider's Web,</l>
+                  <l>How ſhe does catch the Flies,</l>
+                  <l>Makes me to mind thoſe Sectaries fly,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 59.</note>Would catch us as they pleaſe.</l>
+               </lg>
+               <lg n="67">
+                  <head>LXVII.</head>
+                  <l>When I the Bees on Flowers do ſee,</l>
+                  <l>So careful for their Hive,</l>
+                  <l>Should we not careful Chriſtians be,</l>
+                  <l>That would for ever thrive.</l>
+               </lg>
+               <pb n="44" facs="tcp:175280:25"/>
+               <lg n="68">
+                  <head>LXVIII.</head>
+                  <l>When I do mind that <hi>Haman</hi> great,</l>
+                  <l>On Gallows high to ſwing,</l>
+                  <l>Makes me admire that Providence,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Eſther</hi> 7.</note>Of my Eternal King.</l>
+               </lg>
+               <lg n="69">
+                  <head>LXIX.</head>
+                  <l>When I do ſee the Flocks ſo thick,</l>
+                  <l>That Shepherds bring to Fold,</l>
+                  <l>Makes me to mind that Shepherd fine,</l>
+                  <l>
+                     <note place="margin">1 <hi>Sam.</hi> 17.</note>That <hi>David</hi> was of Old.</l>
+               </lg>
+               <lg n="70">
+                  <head>LXX.</head>
+                  <l>When I do hear the wicked mock,</l>
+                  <l>Thoſe that God ſo fears,</l>
+                  <l>Makes me to mind <hi>Eliſha</hi>'s Curſe,</l>
+                  <l>
+                     <note place="margin">2 <hi>King.</hi> 2.</note>Performed by the Bears.</l>
+               </lg>
+               <lg n="71">
+                  <head>LXXI.</head>
+                  <l>When I conſider <hi>Zion</hi>'s caſe,</l>
+                  <l>Tho' ſhe be brought ſo low,</l>
+                  <l>Yet I will mind thoſe Mercies Bowels,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 51.</note> To her do overflow.</l>
+               </lg>
+               <lg n="72">
+                  <head>LXXII.</head>
+                  <l>When I do ſee the Widows poor,</l>
+                  <l>That feareth God moſt high,</l>
+                  <l>Makes me to mind their promiſe ſure,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 54.</note>That's ſpoken in <hi>Iſaiah.</hi>
+                  </l>
+               </lg>
+               <lg n="73">
+                  <head>LXXIII.</head>
+                  <l>When I the Chaff before the Wind,</l>
+                  <l>So quickly ſees give way,</l>
+                  <l>Makes me to mind the Wicked Race,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 1.</note>So quickly flees away.</l>
+               </lg>
+               <lg n="74">
+                  <head>LXXIV.</head>
+                  <l>When I do ſee the Aſſes ſmall,</l>
+                  <l>Thoſe Creatures that's ſo ſtrong,</l>
+                  <l>Makes me to mind thoſe Judges great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 5.</note>White Aſſes rode upon.</l>
+               </lg>
+               <pb n="45" facs="tcp:175280:25"/>
+               <lg n="75">
+                  <head>LXXV.</head>
+                  <l>When I a pleaſant Horſe do ſee,</l>
+                  <l>That pretty Creature tall,</l>
+                  <l>Makes me to mind King <hi>Solomen,</hi>
+                  </l>
+                  <l>
+                     <note place="margin">1 <hi>King.</hi> 4.</note>Had Forty thouſand ſtall.</l>
+               </lg>
+               <lg n="76">
+                  <head>LXXVI.</head>
+                  <l>When I do mind that <hi>Elim</hi> fine,</l>
+                  <l>With her Wells and Palm-trees,</l>
+                  <l>How to the weary <hi>Iſraelites.</hi>
+                  </l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 15.</note>She gave refreſhing eaſe.</l>
+               </lg>
+               <lg n="77">
+                  <head>LXXVII.</head>
+                  <l>When I do ſee the Dagger clear,</l>
+                  <l>So dangerous a thing,</l>
+                  <l>Makes me to mind it ſhath'd ſo deep,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 3.</note>In Belly of <hi>Moab</hi>'s King.</l>
+               </lg>
+               <lg n="78">
+                  <head>LXXVIII.</head>
+                  <l>When we are dipt in ſtraits ſo deep,</l>
+                  <l>Can no Evaſion ſee,</l>
+                  <l>Then let us mind his ſtrength for help,</l>
+                  <l>
+                     <note place="margin">God All-Sufficient.</note>That's called <hi>Ell-Shads.</hi>
+                  </l>
+               </lg>
+               <lg n="79">
+                  <head>LXXIX.</head>
+                  <l>When I think on the Palm-tree fine,</l>
+                  <l>So Beautiful and Green,</l>
+                  <l>Makes me to mind the Righteous ones,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 92.</note>So flouriſhing to Heaven.</l>
+               </lg>
+               <lg n="80">
+                  <head>LXXX.</head>
+                  <l>When I do find the Rain ſo thick,</l>
+                  <l>Sees Waters great to grow,</l>
+                  <l>Makes me to mind that <hi>Noah</hi>'s Flood,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Gen.</hi> 7.</note>The Earth did overflow:</l>
+               </lg>
+               <lg n="81">
+                  <head>LXXXI.</head>
+                  <l>When I do walk the Road along,</l>
+                  <l>And not a Penny of Money,</l>
+                  <l>A ſmall refreſhment unto me,</l>
+                  <l>
+                     <note place="margin">1 <hi>Sam.</hi> 14.</note>Is like to <hi>Jonathan</hi>'s Honey.</l>
+               </lg>
+               <pb n="46" facs="tcp:175280:26"/>
+               <lg n="82">
+                  <head>LXXXII.</head>
+                  <l>When I do ſee the Birds ſo catch'd</l>
+                  <l>And taken in a Gin,</l>
+                  <l>Makes me to mind that Emblem right,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Eccleſ.</hi> 9.</note>When we are ſnar'd in Sin.</l>
+               </lg>
+               <lg n="83">
+                  <head>LXXXIII.</head>
+                  <l>When I do ſee the Godly rare,</l>
+                  <l>That's in Affliction ſoure,</l>
+                  <l>Yet I will mind thoſe Angels kind,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 34.</note>That Guards them every Hour.</l>
+               </lg>
+               <lg n="84">
+                  <head>LXXXIV.</head>
+                  <l>When I do ſee the Worldly-proud,</l>
+                  <l>In Sins Career go on,</l>
+                  <l>Makes me to mind our general calls,</l>
+                  <l>
+                     <note place="margin">1 <hi>Pet.</hi> 2.</note>To them a ſtumbling ſtone.</l>
+               </lg>
+               <lg n="85">
+                  <head>LXXXV.</head>
+                  <l>When I do ſee the Adder deaf,</l>
+                  <l>That cloſely ſtops her Ear,</l>
+                  <l>Makes me to mind the wicked Crew,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 58.</note>No Goſpel-Charms will hear.</l>
+               </lg>
+               <lg n="86">
+                  <head>LXXXVI.</head>
+                  <l>When I conſider <hi>David</hi> King,</l>
+                  <l>Whoſe Houſe ſuch Troubles fand,</l>
+                  <l>Yet I will mind his Covenant,</l>
+                  <l>
+                     <note place="margin">2 <hi>Sam.</hi> 25.</note>That ſhall for ever ſtand.</l>
+               </lg>
+               <lg n="87">
+                  <head>LXXXVII.</head>
+                  <l>When I the Flocks on Mountains ſee,</l>
+                  <l>And Shepherds them to turn,</l>
+                  <l>Makes me to mind that <hi>Moſes</hi> fine,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Exod.</hi> 3.</note>When he the Buſh ſaw burn.</l>
+               </lg>
+               <lg n="88">
+                  <head>LXXXVIII.</head>
+                  <l>When I do ſee the Doves ſo White,</l>
+                  <l>Thoſe pretty pleaſant things,</l>
+                  <l>Makes me to mind our <hi>David</hi> fine,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſicl.</hi> 55.</note>That wiſh'd he had ſuch Wings.</l>
+               </lg>
+               <pb n="47" facs="tcp:175280:26"/>
+               <lg n="89">
+                  <head>LXXXIX.</head>
+                  <l>That Sons of God are now begun,</l>
+                  <l>From Scripture proof is clear,</l>
+                  <l>And God himſelf at the laſt Day,</l>
+                  <l>
+                     <note place="margin">1 <hi>John</hi> 3.</note>Shall make it full appear.</l>
+               </lg>
+               <lg n="90">
+                  <head>XC.</head>
+                  <l>When I do ſee the Righteous,</l>
+                  <l>With trouble from wicked meet,</l>
+                  <l>Yet I will mind that Day to come,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 58.</note>His Blood ſhall waſh his Feet.</l>
+               </lg>
+               <lg n="91">
+                  <head>XCI.</head>
+                  <l>God an Eternal Refuge is,</l>
+                  <l>To thoſe that are his own,</l>
+                  <l>And the Everlaſting Arms underneath,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Deut.</hi> 33.</note>Shall fully to them be ſhown,</l>
+               </lg>
+               <lg n="92">
+                  <head>XCII.</head>
+                  <l>When I thoſe pleaſant Blooms do ſee,</l>
+                  <l>Upon our Peaſe that's Green,</l>
+                  <l>Makes me to mind the Garments fine,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 18.</note>When <hi>Babylon</hi> ſat as Queen.</l>
+               </lg>
+               <lg n="93">
+                  <head>XCIII.</head>
+                  <l>When I do ſee the Bees ſo thick,</l>
+                  <l>About the Hive that's flying,</l>
+                  <l>Makes me to mind that ſwarm of them,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 14.</note>In Carcaſs of a Lion.</l>
+               </lg>
+               <lg n="94">
+                  <head>XCIV.</head>
+                  <l>When I do drink the Water fine,</l>
+                  <l>From <hi>Moffat</hi>-Well that fa,</l>
+                  <l>Makes me to mind that Pool for Health,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>John</hi> 5.</note>That was at <hi>Betheſda.</hi>
+                  </l>
+               </lg>
+               <lg n="95">
+                  <head>XCV.</head>
+                  <l>When I behold the Turky-flower,</l>
+                  <l>So largely ſpread it ſel,</l>
+                  <l>Makes me to mind his Dominions great,</l>
+                  <l>Where once the Saints did dwell.</l>
+               </lg>
+               <pb n="48" facs="tcp:175280:27"/>
+               <lg n="96">
+                  <head>XCVI.</head>
+                  <l>When I do ſee the <hi>Spaniard</hi> proud,</l>
+                  <l>For all his Silver Mines,</l>
+                  <l>Yet I my Climate would not change,</l>
+                  <l>In which the Goſpel ſhines.</l>
+               </lg>
+               <lg n="97">
+                  <head>XCVII.</head>
+                  <l>When I do ſee the Flower-de-luce,</l>
+                  <l>And its Blew ſtinking Flower,</l>
+                  <l>Makes me to mind Saints Blood its ſhed</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Rev.</hi> 6</note>Cries Vengeance every Hour.</l>
+               </lg>
+               <lg n="98">
+                  <head>XCVIII.</head>
+                  <l>When I do ſee the Trees ſo thick,</l>
+                  <l>As I do walk the Road,</l>
+                  <l>Makes me to mind thoſe fooliſh Men,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Iſa.</hi> 44.</note>That makes of them a God.</l>
+               </lg>
+               <lg n="99">
+                  <head>XCIX.</head>
+                  <l>When I do ſee Idolaters,</l>
+                  <l>Which on Falſe Gods do call,</l>
+                  <l>For which I mind that ſpoiling great,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Judg.</hi> 2.</note>God ſent on <hi>Iſrael.</hi>
+                  </l>
+               </lg>
+               <lg n="100">
+                  <head>C.</head>
+                  <l>When I the Government do mind,</l>
+                  <l>By which our Church now ſtands,</l>
+                  <l>Wiſh God the like may planted be,</l>
+                  <l>Thro' all Earth's utmoſt Lands.</l>
+               </lg>
+               <lg n="101">
+                  <head>CI.</head>
+                  <l>In <hi>Scotland</hi> my Firſt Breath I drew,</l>
+                  <l>My Lines ſo pleaſant fell,</l>
+                  <l>
+                     <note place="margin">
+                        <hi>Pſal.</hi> 16.</note>By thoſe in <hi>Africa</hi> that be,</l>
+                  <l>And <hi>Aſia</hi> that dwell.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="envoy">
+            <p>
+               <hi>Reader,</hi> I wiſh you as much Joy in Rea<g ref="char:EOLhyphen"/>ding theſe Verſes, as I had in Making them on a Seven Hundred Miles Journey on Foot.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175280:27"/>
+            <pb facs="tcp:175280:28"/>
+            <pb facs="tcp:175280:28"/>
+            <pb facs="tcp:175280:29"/>
+            <pb facs="tcp:175280:29" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
